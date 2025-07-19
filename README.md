@@ -98,3 +98,6 @@ Analisis dilakukan melalui beberapa tahapan utama yang terdokumentasi dalam note
     
 
 **Library:** pandas, numpy, matplotlib, seaborn
+
+Lihat dashboard Tableau di sini:
+👉 [Klik di sini](https://public.tableau.com/views/nama_dashboard/NamaSheet)
