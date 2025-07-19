@@ -99,5 +99,7 @@ Analisis dilakukan melalui beberapa tahapan utama yang terdokumentasi dalam note
 
 **Library:** pandas, numpy, matplotlib, seaborn
 
-Lihat dashboard Tableau di sini:
-👉 [Klik di sini]([https://public.tableau.com/views/nama_dashboard/NamaSheet](https://public.tableau.com/views/TransJakartaDashboard_17528290483210/DashboiardOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+### 📊 Dashboard Tableau Interaktif
+
+Lihat hasil visualisasi di Tableau Public:  
+👉 [Klik untuk melihat dashboard](https://public.tableau.com/views/TransJakartaDashboard_17528290483210/DashboiardOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
